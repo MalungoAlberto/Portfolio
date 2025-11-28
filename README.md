@@ -2,7 +2,7 @@
 🌍 Hello and welcome to my GitHub!
 I believe data has the power to change the way we see the world. Here you’ll find my projects on Business Intelligence, SQL, and cloud analytics, developed with the goal of driving smarter decisions and innovation.
 
-Mid-Level Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, QlikSense and QlikView) | BMW USA Partner.
+Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, QlikSense and QlikView) | BMW USA Partner.
 
 ## 
 - 🔭 Currently working on: **BI & Data Analytics projects** (QuickSight, Power BI, Tableau, CDH, AWS, SQL)  
