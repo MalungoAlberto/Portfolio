@@ -60,3 +60,11 @@ Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Ql
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+### 🤖 AI & No-Code Development
+![Claude](https://img.shields.io/badge/Claude-AI-000000?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-FF4D4D?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
+![AI Development](https://img.shields.io/badge/AI%20Development-00C853?style=for-the-badge)
+
