@@ -10,7 +10,7 @@ Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Ql
 - 👯 Open to collaborate on: **Open-source BI dashboards & data visualization projects**  
 - 🤔 Looking for help with: **best practices in data architecture and automation**  
 - 💬 Ask me about: **Data Visualization, SQL, ETL, and BI tools**  
-- 📫 How to reach me: **malungosebastiao91@gmail.com**  
+- 📫 How to reach me: **malungo.sebastiao@outlook.com**  
 - ⚡ Fun fact: I believe every dataset hides a story - you just need the right dashboard to tell it 🚀 
 ##
 
