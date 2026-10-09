@@ -2,14 +2,14 @@
 🌍 Hello and welcome to my GitHub!
 I believe data has the power to change the way we see the world. Here you’ll find my projects on Business Intelligence, SQL, and cloud analytics, developed with the goal of driving smarter decisions and innovation.
 
-Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, QlikSense and QlikView) | BMW USA Partner.
+Senior Data Analyst | Business Intelligence, Market Intelligence & Data Visualization (Power BI, Tableau, Amazon QuickSight, Qlik) | Projects for the US, UK and Mexico markets.
 
 ## 
-- 🔭 Currently working on: **BI & Data Analytics projects** (QuickSight, Power BI, Tableau, CDH, AWS, SQL)  
+- 🔭 Currently working on: **BI & Data Analytics projects** (Power BI, Tableau, QuickSight, CDH, AWS, SQL) and **internal AI applications** (Streamlit, FastAPI, LLMs) for sales-call analysis and natural-language data queries  
 - 🌱 Currently learning: **Advanced Analytics with HTML and CSS**  
 - 👯 Open to collaborate on: **Open-source BI dashboards & data visualization projects**  
 - 🤔 Looking for help with: **best practices in data architecture and automation**  
-- 💬 Ask me about: **Data Visualization, SQL, ETL, and BI tools**  
+- 💬 Ask me about: **Data Visualization, SQL, ETL, Power Query, and BI tools**  
 - 📫 How to reach me: **malungo.sebastiao@outlook.com**  
 - ⚡ Fun fact: I believe every dataset hides a story - you just need the right dashboard to tell it 🚀 
 ##
@@ -37,7 +37,8 @@ Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Ql
 ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![QlikView](https://img.shields.io/badge/QlikView-4CAF50?style=for-the-badge&logo=qlik&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-4CAF50?style=for-the-badge&logo=qlik&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
 ### 🗄️ Databases & Data Sources
@@ -57,6 +58,9 @@ Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Ql
 
 ### 💻 Programming & Tools
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -64,6 +68,7 @@ Senior Data Analyst | BI & Data Visualization (QuickSight, Power BI, Tableau, Ql
 
 ### 🤖 AI & No-Code Development
 ![Claude](https://img.shields.io/badge/Claude-AI-000000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Ollama%20%7C%20OpenAI%20%7C%20Bedrock-8A2BE2?style=for-the-badge)
 ![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-FF4D4D?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
 ![AI Development](https://img.shields.io/badge/AI%20Development-00C853?style=for-the-badge)
