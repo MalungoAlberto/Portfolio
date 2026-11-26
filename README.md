@@ -20,7 +20,7 @@ Senior Data Analyst | Business Intelligence, Market Intelligence & Data Visualiz
 ##
 **MY PROJECTS:** https://bit.ly/3n0dEY6
 
-<img src="./BG.svg"
+<img src="BG.svg"
      alt="Portfólio de Dados — Malungo Sebastião"
      width="100%">
 
