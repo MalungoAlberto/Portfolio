@@ -17,12 +17,12 @@ Senior Data Analyst | Business Intelligence, Market Intelligence & Data Visualiz
 ## 🌍 Languages
 ![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Advanced%20C1-blue?style=for-the-badge)
-
 ##
 **MY PROJECTS:** https://bit.ly/3n0dEY6
 
-<img width="1414" height="484" alt="image" src="https://github.com/user-attachments/assets/0257c55b-0e1c-410b-8617-9ba2812c6fe1" />
-
+<img src="./BG.svg"
+     alt="Portfólio de Dados — Malungo Sebastião"
+     width="100%">
 
 ##
 
